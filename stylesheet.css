@@ -1,0 +1,15 @@
+.div1{
+    color:red;
+    border: solid;
+    }
+body{
+    background-color:aqua;
+}
+#p1{
+    color: green;
+    border: dotted black;
+}
+.p2{
+    color: powderblue;
+    border:pink dashed;
+}
